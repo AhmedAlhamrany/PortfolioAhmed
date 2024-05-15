@@ -1,0 +1,13 @@
+.proj-link {
+    display: block;
+    width: fit-content;
+  }
+  
+  .proj-image {
+    width: calc(100% - 40px);
+    border-radius: 10px;
+  }
+  
+  .proj-image:hover {
+    outline: 2px solid teal;
+  }
